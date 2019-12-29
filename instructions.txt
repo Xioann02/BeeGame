@@ -1,0 +1,3 @@
+- Run a web server
+- Run the application through a browser
+E.g: http://127.0.0.1/BeeGame/beeGame.php
